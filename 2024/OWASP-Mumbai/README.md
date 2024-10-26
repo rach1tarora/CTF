@@ -14,7 +14,7 @@ This talk covered the following key areas:
 - **CTF Binaries** – Real-world binaries from previous CTFs for practical learning.
 
 ## Files
-The **Files** folder contains all the binaries used during the demonstration. [./Files](Files)  
+The **Files** folder contains all the binaries used during the demonstration. [Files](Files)  
 
 ## Zoom Recording
 Watch the recording here: [Zoom Recording Link](https://us06web.zoom.us/rec/share/1e4BH0nsnGbopHDdUo1w8nWtyAvvl8nnBT5Bwk8sp2ns-ZJUmhvg0Ry3XrUUBxug.ddrWkkHFdl6MOZkY)  
